@@ -1,7 +1,9 @@
-# Training Codes
 GIT COMMANDS
+_____________
 
 git clone https://github.com/vivekaditya/training.git
+
+git status
 
 git add -A
 
